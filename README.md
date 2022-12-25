@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 
 <br>
-<br>
-
-<br>
 <h2>Skills and Tools</h2>
 
 <!-- <p align="center"> -->
