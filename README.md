@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-<details close="false">
+<details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
