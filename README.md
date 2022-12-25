@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details close="false">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FarFarHmzjvrn&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarFarHmzjvrn&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ 
+ </details>
+
