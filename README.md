@@ -36,7 +36,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Skills'>
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,github,vscode,linux" />
+  </a>
+</p>
 
 
 
