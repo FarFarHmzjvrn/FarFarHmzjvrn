@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <h2>Connect with me:</h2>
 
-  [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+  [![Telegram][4.2]][4]
 
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 [3]: https://www.instagram.com/farnaz
-[4]: https://telegram.me/MosFazli
+[4]: https://telegram.me/FarFarHmzjvrn
 
 
 <br>
