@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <br>
-<h2>Social Networks</h2>
+<h2>Connect with me:</h2>
 
   [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
