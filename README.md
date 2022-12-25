@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <h2>Connect with me:</h2>
  
   [![Telegram][4.2]][4]
-
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 [4]: https://telegram.me/FarFarHmzjvrn
 <br>
+<br>
+
 <h2>Skills and Tools</h2>
 
 <p align="left">
