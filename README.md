@@ -37,16 +37,11 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<h2>Skills</h2>
+<h2>Skills and Tools</h2>
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,linux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,github,linux" />
   </a>
 </p>
 
