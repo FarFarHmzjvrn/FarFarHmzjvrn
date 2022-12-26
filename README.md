@@ -13,7 +13,20 @@ A Data Science Student
 
 
 
+<br>
+<h2>Social Networks</h2>
 
+   [![Telegram][4.2]][4]
+
+
+[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+
+[4]: https://telegram.me/FarFarHmzjvrn
+
+
+<br>
+<br>
 
 
 
@@ -24,11 +37,6 @@ A Data Science Student
     <img src="https://skillicons.dev/icons?i=git,vscode,python,github,linux" />
   </a>
 </p>
-<br>
-
-<img align='right' height='160' style="margin-left:20px" src='E/wallpaper/girl.gif' alt='Skills'>
-
-<br>
 
 
 
@@ -41,16 +49,6 @@ A Data Science Student
 
 
 
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-view.svg)
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FarFarHmzjvrn&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarFarHmzjvrn&hide=html&layout=compact&theme=highcontrast" />
- </div>
- 
- 
- </details>
+
 
