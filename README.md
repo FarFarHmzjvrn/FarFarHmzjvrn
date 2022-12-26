@@ -18,9 +18,7 @@ A Data Science Student
 
    [![Telegram][4.2]][4]
 
-
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
-
 
 [4]: https://telegram.me/FarFarHmzjvrn
 
