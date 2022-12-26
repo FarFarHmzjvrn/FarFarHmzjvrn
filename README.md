@@ -44,7 +44,7 @@ A Data Science Student
 <details close="true">
   <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ ![](./profile-3d-contrib/profile-night-view.svg)
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FarFarHmzjvrn&show_icons=true&theme=highcontrast" />
