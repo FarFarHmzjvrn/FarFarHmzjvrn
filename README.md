@@ -1,13 +1,12 @@
-### Hi there:girl_technologist:I'm Farnaz Hamzejavaran
+### <p align='center' I'm Farnaz Hamzejavaran>
 
 
 
 - 🌱 I’m currently learning machine learning,algorithms
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Python,Data Science
 - 📫 How to reach me: frnz_hmzjvrn@outlook.com
 <!-- - 😄 Pronouns: ... -->
-
+<!-- - 🤔 I’m looking for help with ... -->
 -->
 
 
