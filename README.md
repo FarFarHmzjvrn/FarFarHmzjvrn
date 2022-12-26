@@ -2,17 +2,11 @@
 A Data Science Student
 
 
-
-
 - 🌱 I’m currently learning machine learning,algorithms
 - 💬 Ask me about Python,Data Science
 - :heart: I'm interested in Data Science, Python, Machine Learning.
 - :star: I would like to join in research group.
 - 📫 How to reach me: frnz_hmzjvrn@outlook.com
-<!-- - 😄 Pronouns: ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-
-
 
 
 <br>
@@ -39,7 +33,9 @@ A Data Science Student
 </p>
 
 
-
+- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarFarHmzjvrn"/>
+ -  <img src="https://github-readme-stats.vercel.app/api?username=FarFarHmzjvrn&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarFarHmzjvrn"/>
 
 
 
