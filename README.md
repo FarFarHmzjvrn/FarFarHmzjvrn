@@ -1,4 +1,6 @@
-### <p align='center' I'm Farnaz Hamzejavaran>
+### I'm Farnaz Hamzejavaran
+A Data Science Student
+
 
 
 
@@ -7,7 +9,7 @@
 - 📫 How to reach me: frnz_hmzjvrn@outlook.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
--->
+
 
 
 
