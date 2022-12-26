@@ -1,5 +1,5 @@
-### I'm Farnaz Hamzejavaran
-<h1>A Data Science Student</h1>
+<h1 align="center">Hi 👋,I'm Farnaz Hamzejavaran</h1>
+<h3 align="center">A Data Science Student</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFarFarHmzjvrn%2FFarFarHmzjvrn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frnz_hmzjvrn@outlook.com)
