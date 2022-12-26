@@ -6,8 +6,8 @@ A Data Science Student
 
 - 🌱 I’m currently learning machine learning,algorithms
 - 💬 Ask me about Python,Data Science
-- :blue_heart: I'm interested in Data Science, Python, Machine Learning.
-- :red_star: I would like to join in research group.
+- :red_heart: I'm interested in Data Science, Python, Machine Learning.
+- :star: I would like to join in research group.
 - 📫 How to reach me: frnz_hmzjvrn@outlook.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
