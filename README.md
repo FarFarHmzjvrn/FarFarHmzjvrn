@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frnz_hmzjvrn@outlook.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com) -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/farnaz.hamzejavaran/)](https://www.instagram.com/farnaz.hamzejavaran)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&link=https://telegram.com/@FarFarHmzjvrn/)](https://www.telegram.com/@FarFarHmzjvrn)
 [![Github](https://img.shields.io/github/followers/FarFarHmzjvrn?label=Follow&style=social)](https://github.com/FarFarHmzjvrn)
 
 - 🌱 I’m currently learning machine learning,algorithms
